@@ -18,4 +18,4 @@ docker build . -t dockerexample
 ```bash
 docker run dockerexample
 ```
-- You should be met with output that says: `Hello, World!!`
+- You should be met with output that says: `Hello, World!`
